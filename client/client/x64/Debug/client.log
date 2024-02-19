@@ -1,0 +1,9 @@
+﻿  client.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file 'client.cpp')
+  C:\Users\DLaptop\Music\Coding Software\vcpkg\installed\x64-windows\include\GLFW\glfw3.h(123,1):
+  see previous definition of 'APIENTRY'
+  
+  client.vcxproj -> C:\Users\DLaptop\Music\Side Gig\3D Game\DX\1. Window\client\x64\Debug\client.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
